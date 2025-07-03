@@ -1,4 +1,4 @@
-🤖 Machine Learning Model Implementation:
+🤖Polynomial Non-Linear Regression in Machine Learning Model:
 
 This Jupyter Notebook demonstrates the implementation of machine learning models on a cleaned and preprocessed dataset. It includes model training, evaluation, and performance comparison using Python libraries like Scikit-learn.
 
